@@ -1,0 +1,4 @@
+﻿  main.cpp
+  mouse_info.cpp
+  正在生成代码...
+opencv_world401d.lib(opencv_world401d.dll) : fatal error LNK1112: 模块计算机类型“x64”与目标计算机类型“x86”冲突
